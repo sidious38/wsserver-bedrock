@@ -3,7 +3,6 @@
 <br>
 <br>
 The wsserver sends some commands to your client:
-
 <br>
 title --> Websocket connection successful
 
