@@ -14,7 +14,7 @@ summon --> tnt (test it in a world you don't need)
 <br>
 
 <br>
-After you used /wsserver your_(local)ip:1111, you'll need to send /wsserver 0. Afterwards you can run the command again.
+After you used /wsserver your_(local)ip:1111, you'll need to type in /wsserver 0. Afterwards you can run the command again.
 
 -----------------------------------------------------
 
