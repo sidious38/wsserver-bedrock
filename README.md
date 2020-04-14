@@ -1,9 +1,8 @@
 # wsserver-bedrock
 <b>A wsserver for bedrock</b>
+
 <br>
-
 The wsserver sends some commands to your client:
-
 <br>
 title --> Websocket connection successful
 
