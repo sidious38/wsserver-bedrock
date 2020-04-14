@@ -2,10 +2,10 @@ const WebSocket = require('ws');
 
 const wss = new WebSocket.Server({ port: 1111 });
 try{
-  console.log("Server is ready...");
+  console.log("Server is running on your_ip:1111");
 
   wss.on('connection', function connection(ws) {
-  console.log("New connection with a client:");
+  console.log("A client is opening a connection");
 
   ws.send(JSON.stringify(
     {
