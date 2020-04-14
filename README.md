@@ -8,5 +8,6 @@ title --> Websocket connection successful
 
 summon --> tnt (test it in a world you don't need)
 
+-----------------------------------------------------
 
 Developer: Mister Bernd
