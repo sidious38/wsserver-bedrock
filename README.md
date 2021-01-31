@@ -1,20 +1,13 @@
 # wsserver-bedrock
 <b>A wsserver for bedrock</b>
 <br>
-To run the server on Windows, use the runServer_Windows.exe.
-If you want to use it on other systems, you have to install node.js and afterwards you are able to run runServer_Other.sh
+If you want to use the wsserver, you have to install node.js and afterwards you are able to run runServer_WinCmd.bat/runServer_Other.sh
 <br>
-
-The wsserver sends some commands to your client:
-<br>
-
-title --> Websocket connection successful
-
-summon --> tnt (test it in a world you don't need)
+You can use this WebSocketServer to send commands to your client.
 <br>
 
 <br>
-After you used /wsserver your_(local)ip:1111, you'll need to type in /wsserver 0. Afterwards you can run the command again.
+To connect to the server use /wsserver your_ip:8000 on a Minecraft Bedrock Edition Client.
 
 -----------------------------------------------------
 
