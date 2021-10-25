@@ -1,0 +1,8 @@
+build
+npm-debug.log
+.nyc
+.env
+.DS_Store
+/.vscode/
+/node_modules/
+/.idea/

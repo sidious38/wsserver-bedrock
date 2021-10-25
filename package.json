@@ -1,0 +1,24 @@
+{
+  "name": "wsserver-bedrock",
+  "version": "2.1.0",
+  "dependencies": {
+    "ws": "^8.2.3"
+  },
+  "description": "<b>A wsserver for bedrock</b>\r <br>\r If you want to use the wsserver, you have to install node.js and afterwards you are able to run runServer_WinCmd.bat/runServer_Other.sh\r <br> <br>\r You can use this WebSocketServer to send commands to your client. Press Ctrl-C to kill the process.\r <br>",
+  "main": "wsserver.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidious38/wsserver-bedrock.git"
+  },
+  "author": "sidious38",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sidious38/wsserver-bedrock/issues"
+  },
+  "homepage": "https://github.com/sidious38/wsserver-bedrock#readme",
+  "keywords": []
+}
